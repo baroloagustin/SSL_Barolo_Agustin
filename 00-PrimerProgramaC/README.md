@@ -1,0 +1,1 @@
+En este primer programa de C se buscara crear un programa que imprimer por pantalla un "hola mundo"
